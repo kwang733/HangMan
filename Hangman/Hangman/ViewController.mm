@@ -1,11 +1,3 @@
-//
-//  ViewController.m
-//  Hangman
-//
-//  Created by D.J on 4/17/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
-//
-
 #import "ViewController.h"
 #import "SettingViewController.h"
 #import "ConViewController.h"
